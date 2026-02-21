@@ -28,7 +28,7 @@ Our project questions include:
 - **1. Global Product Performance Comparison**
   We analyze the average sentiment and review volume across all product categories. This high-level view allows executives to identify which products are thriving and which require immediate attention.
   <br>
-  <img src="images/analytics_kpi.jpg" width="800">
+  <img src="Images/analytics_kpi.gif" width="800">
   <br>
 
 - **2. Sentiment Trend Analytics (Stacked)**
